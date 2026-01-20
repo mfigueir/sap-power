@@ -35,7 +35,7 @@ The power automatically activates when working with:
 1. Open Kiro IDE
 2. Open Command Palette (`Cmd/Ctrl + Shift + P`)
 3. Search for "Kiro: Configure Powers"
-4. Search for "SAP Skills"
+4. Search for "SAP Power"
 5. Click "Install"
 
 ### Option 2: Manual Installation
@@ -50,7 +50,7 @@ The power automatically activates when working with:
 
 ```bash
 cd ~/.kiro/powers/
-git clone https://github.com/mfigueir/sap-power.git sap-skills
+git clone https://github.com/mfigueir/sap-power.git sap-power
 ```
 
 ## 🎯 Quick Start
